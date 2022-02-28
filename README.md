@@ -1,5 +1,5 @@
 # Title
-Sushi App
+Sushi Website
 
 # Description
 Website all about sushi with a bonus animation
